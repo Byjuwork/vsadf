@@ -1,0 +1,20 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 2px solid rgb(143, 31, 31);
+}
+
+#play, #status {
+    font-size: 22px;
+    font-family:sans-serif;
+    border: 2px solid rgb(242, 233, 233);
+  
+}
